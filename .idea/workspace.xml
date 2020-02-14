@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d02b5660-6419-4b7b-94a3-86172a20ab35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyMavenProject1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WtUIBDozAm96JYKGruxkmJGoba" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\MyMavenProject1\src\test" />
+      <recent name="C:\Users\User\IdeaProjects\MyMavenProject1\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: facebookelement">
+    <configuration name="Feature: bwfw" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/bwfw.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MyMavenProject1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: bwfw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: example" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/example.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MyMavenProject1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: facebookelement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/facebookelement.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MyMavenProject1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: facebookelement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: multipleExamples" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/multipleExamples.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MyMavenProject1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: multipleExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/website.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MyMavenProject1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: website" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Testing Forward and Backward" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/multipleExamples.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MyMavenProject1" />
+      <option name="NAME_FILTER" value="^Testing Forward and Backward$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Testing Forward and Backward$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Testing Forward and Backward" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="MyMavenProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepDefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="stepDefinition.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: example" />
+      <item itemvalue="Cucumber java.Feature: website" />
+      <item itemvalue="Cucumber java.Feature: multipleExamples" />
+      <item itemvalue="Cucumber java.Scenario: Testing Forward and Backward" />
+      <item itemvalue="Cucumber java.Feature: bwfw" />
+      <item itemvalue="Cucumber java.Feature: facebookelement" />
+      <item itemvalue="JUnit.TestRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: facebookelement" />
+        <item itemvalue="Cucumber java.Feature: bwfw" />
+        <item itemvalue="Cucumber java.Scenario: Testing Forward and Backward" />
+        <item itemvalue="Cucumber java.Feature: multipleExamples" />
+        <item itemvalue="Cucumber java.Feature: website" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d02b5660-6419-4b7b-94a3-86172a20ab35" name="Default Changelist" comment="" />
+      <created>1579968302498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579968302498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="25" key="#Project_Structure" timestamp="1580255659227">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="104" y="25" key="#Project_Structure/0.0.1024.728@0.0.1024.728" timestamp="1580255659227" />
+    <state x="0" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581253959832">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728@0.0.1024.728" timestamp="1581253959832" />
+    <state x="254" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581261009934">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="254" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.728@0.0.1024.728" timestamp="1581261009934" />
+    <state x="389" y="72" key="#xdebugger.evaluate" timestamp="1581180245302">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="389" y="72" key="#xdebugger.evaluate/0.0.1024.728@0.0.1024.728" timestamp="1581180245302" />
+    <state x="292" y="121" key="FileChooserDialogImpl" timestamp="1580516491886">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="292" y="121" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1580516491886" />
+    <state width="1025" height="671" key="GridCell.Tab.0.bottom" timestamp="1581378491361">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="671" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1581378491361" />
+    <state width="1025" height="671" key="GridCell.Tab.0.center" timestamp="1581378491361">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="671" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1581378491361" />
+    <state width="1025" height="671" key="GridCell.Tab.0.left" timestamp="1581378491361">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="671" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1581378491361" />
+    <state width="1025" height="671" key="GridCell.Tab.0.right" timestamp="1581378491361">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="671" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1581378491361" />
+    <state width="981" height="223" key="GridCell.Tab.1.bottom" timestamp="1581255009586">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="223" key="GridCell.Tab.1.bottom/0.0.1024.728@0.0.1024.728" timestamp="1581255009586" />
+    <state width="981" height="223" key="GridCell.Tab.1.center" timestamp="1581255009586">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="223" key="GridCell.Tab.1.center/0.0.1024.728@0.0.1024.728" timestamp="1581255009586" />
+    <state width="981" height="223" key="GridCell.Tab.1.left" timestamp="1581255009586">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="223" key="GridCell.Tab.1.left/0.0.1024.728@0.0.1024.728" timestamp="1581255009586" />
+    <state width="981" height="223" key="GridCell.Tab.1.right" timestamp="1581255009586">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="223" key="GridCell.Tab.1.right/0.0.1024.728@0.0.1024.728" timestamp="1581255009586" />
+    <state x="15" y="9" key="SettingsEditor" timestamp="1580050741308">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="15" y="9" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1580050741308" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581376890453">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1024.728@0.0.1024.728" timestamp="1581376890453" />
+    <state x="220" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1581501005836">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="220" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1581501005836" />
+    <state x="0" y="71" key="new project wizard" timestamp="1580570994773">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="71" key="new project wizard/0.0.1024.728@0.0.1024.728" timestamp="1580570994773" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyMavenProject1$Feature__example.ic" NAME="Feature: example Coverage Results" MODIFIED="1580051375334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyMavenProject1$Feature__website.ic" NAME="Feature: website Coverage Results" MODIFIED="1580653397960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+</project>
